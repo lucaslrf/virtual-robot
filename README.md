@@ -21,7 +21,9 @@ const matriz = [
 
 ### Execução
 
-- Abra o arquivo index.html 
+ - Acesse a demo pelo link: https://virtual-robot.herokuapp.com
+
+- Abra o arquivo index.html (caso execute localmente)
 - Clique em desenhar matriz
 - Aperte play para observar se ele encontra o objeto 9
 - Clique em reload para dar refresh na página
