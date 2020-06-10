@@ -1,0 +1,62 @@
+header {
+    margin: 2%;
+}
+
+p {
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: blue;
+}
+
+.icon-github {
+    width: 24px;
+    height: 24px;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.arena {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.table-arena {
+    width: 100%;
+}
+
+button {
+    width: 20%;
+    padding: 10px;
+    border-radius: 25px;
+    background: rgb(22, 84, 134);
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+button:hover {
+    background: rgb(73, 111, 143);
+}
